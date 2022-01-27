@@ -14,3 +14,11 @@
 **Thoughts**: It really got challenging, but most of the 'mistakes' seem to have been simple syntax errors. Like not closing a bracket enough times. Good to finish it though. 
 
 **Link(s) to work**: (havent sussed this bit out yet)
+
+### Day 3: January 27th, 2022
+
+**Today's Progress**: Completed both data-visualisation and the JSON tutorials. Now onto the actual exercise.
+
+**Thoughts**: We'll see once I go through the challenge (;-))
+
+**Link(s) to work**: N/A
