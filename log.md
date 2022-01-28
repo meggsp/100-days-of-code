@@ -22,3 +22,11 @@
 **Thoughts**: We'll see once I go through the challenge (;-))
 
 **Link(s) to work**: N/A
+
+### Day 4: January 28th, 2022
+
+**Today's Progress**: Started on the bar exercise. Finding it quite the challenge, but then again I'm getting used to the codepen interface and sometimes it flags errors where it shouldn't, like telling you a class doesn't exist or semi-colon, when you're literally about to insert it. I've copied some code from the 'example' exercise but need to work it out step by step. 
+
+**Thoughts**: Try again tomorrow, then if struggling, consult help.
+
+**Link(s) to work**: https://codepen.io/meggsp/pen/BamNqjw
