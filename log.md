@@ -30,3 +30,14 @@
 **Thoughts**: Try again tomorrow, then if struggling, consult help.
 
 **Link(s) to work**: https://codepen.io/meggsp/pen/BamNqjw
+
+### Day 5: January 31st, 2022
+
+**Today's Progress**: Got a bit futher with the first exercise, but as the brain is a little clogged (it happens) I'll leave it to an hour or so today and do some more tomorrow.
+
+**Thoughts**: Glad that I got a little further, it'll be good when it's fully done.
+
+**Link(s) to work**: https://codepen.io/meggsp/pen/BamNqjw
+
+
+https://codepen.io/meggsp/pen/BamNqjw
