@@ -39,5 +39,11 @@
 
 **Link(s) to work**: https://codepen.io/meggsp/pen/BamNqjw
 
+### Day 6: February 1st, 2022
 
-https://codepen.io/meggsp/pen/BamNqjw
+**Today's Progress**: Decided to do some of the 'earlier' stuff to do with html/css, in order to get some actual tests done. Please note, I have not gone ahead with formatting, only to get the tests to pass.
+
+**Thoughts**: 1 hour a day is good to get your focus on with a cup of tea/coffee. I've also now worked out how to see the 'failed' tests, which makes things a little clearer.
+
+**Link(s) to work**: https://codepen.io/meggsp/pen/eYeZdpz
+                     https://codepen.io/meggsp/pen/XWzdjPe
