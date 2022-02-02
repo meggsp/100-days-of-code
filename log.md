@@ -47,3 +47,13 @@
 
 **Link(s) to work**: https://codepen.io/meggsp/pen/eYeZdpz
                      https://codepen.io/meggsp/pen/XWzdjPe
+                     
+### Day 7: February 1st, 2022
+
+**Today's Progress**: Completed the Responsive Web Design tasks and earned the certificate.
+
+**Thoughts**: Glad to finish it. Now onto the further challenges. Note - I didn't apply any real styling like the examples have suggested, as I already know how to style elements. If this is required at a later time, I will do it.
+
+**Link(s) to work**: https://codepen.io/meggsp/pen/NWwNJzL
+                     https://codepen.io/meggsp/pen/WNXwPqX
+                     https://codepen.io/meggsp/pen/jOaqdBm
