@@ -48,7 +48,7 @@
 **Link(s) to work**: https://codepen.io/meggsp/pen/eYeZdpz
                      https://codepen.io/meggsp/pen/XWzdjPe
                      
-### Day 7: February 1st, 2022
+### Day 7: February 2nd, 2022
 
 **Today's Progress**: Completed the Responsive Web Design tasks and earned the certificate.
 
@@ -57,3 +57,9 @@
 **Link(s) to work**: https://codepen.io/meggsp/pen/NWwNJzL
                      https://codepen.io/meggsp/pen/WNXwPqX
                      https://codepen.io/meggsp/pen/jOaqdBm
+                     
+### Day 8: February 3rd, 2022
+
+**Today's Progress**: Completed some of the Java excercises. These aren't the 'tests', so can't fork. #1hour
+
+**Thoughts**: Be good to pickup on some Java.
