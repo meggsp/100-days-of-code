@@ -63,3 +63,11 @@
 **Today's Progress**: Completed some of the Java excercises. These aren't the 'tests', so can't fork. #1hour
 
 **Thoughts**: Be good to pickup on some Java.
+
+### Day 9: February 4th, 2022
+
+**Today's Progress**: Completed some of the Java excercises. These aren't the 'tests', so can't fork. #1hour 
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-bracket-notation-to-find-the-nth-character-in-a-string
+
+
+**Thoughts**: Looking forward to the exercises.
