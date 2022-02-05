@@ -71,3 +71,9 @@ https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/bas
 
 
 **Thoughts**: Looking forward to the exercises.
+
+### Day 10: February 5th, 2022
+
+**Today's Progress**: Completed some more java tutorials. 1h.
+
+**Thoughts**:
