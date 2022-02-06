@@ -77,3 +77,12 @@ https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/bas
 **Today's Progress**: Completed some more java tutorials. 1h.
 
 **Thoughts**:
+
+### Day 11: February 6th, 2022
+
+**Today's Progress**: Completed some more java tutorials. Up to https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/stand-in-line 1h.
+
+**Thoughts**: Earned a trust badge.
+
+
+
