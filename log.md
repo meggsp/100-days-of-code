@@ -84,5 +84,9 @@ https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/bas
 
 **Thoughts**: Earned a trust badge.
 
+### Day 12: February 7th, 2022
 
+**Today's Progress**: More java, 2 hours. Up to https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/selecting-from-many-options-with-switch-statements
+
+**Thoughts**: Time to turn to Python soon. Games! :)
 
