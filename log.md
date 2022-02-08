@@ -90,3 +90,12 @@ https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/bas
 
 **Thoughts**: Time to turn to Python soon. Games! :)
 
+### Day 13: February 8th, 2022
+
+**Today's Progress**: Done the Java exercises up to here:
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/counting-cards
+
+What's incredibly frustrating is sometimes the actual 'solutions' are different to the examples. So it sometimes throws you off. Then you have to have a look at the answer. 
+
+**Thoughts**: Bit of an anxious day today, furthermore by solutions being different from examples. So done an hour. Going to try make a small python game later.
+
