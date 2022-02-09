@@ -99,3 +99,11 @@ What's incredibly frustrating is sometimes the actual 'solutions' are different 
 
 **Thoughts**: Bit of an anxious day today, furthermore by solutions being different from examples. So done an hour. Going to try make a small python game later.
 
+### Day 14: February 9th, 2022
+
+**Today's Progress**: Onto the Python tutorials. Videos are useful. #2hrs https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/more-conditional-structures
+
+**Thoughts**: Nice to be learning it, albeit I know bits. Been looking at game code also - have a minor idea.
+
+
+
