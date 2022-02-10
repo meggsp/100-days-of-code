@@ -105,5 +105,17 @@ What's incredibly frustrating is sometimes the actual 'solutions' are different 
 
 **Thoughts**: Nice to be learning it, albeit I know bits. Been looking at game code also - have a minor idea.
 
+### Day 14: February 9th, 2022
+
+**Today's Progress**: Onto the Python tutorials. Videos are useful. #2hrs https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/more-conditional-structures
+
+**Thoughts**: Nice to be learning it, albeit I know bits. Been looking at game code also - have a minor idea.
+
+### Day 15: February 10th, 2022
+
+**Today's Progress**: More on the python tutorials, but I've started work on a small game. 3.5hr
+
+**Thoughts**: Nice to be learning it.
+
 
 
