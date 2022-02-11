@@ -117,5 +117,7 @@ What's incredibly frustrating is sometimes the actual 'solutions' are different 
 
 **Thoughts**: Nice to be learning it.
 
+Day 16: February 11th, 2022
+Today's Progress: More on the python tutorials. Taking a break on the game to get some PY fundamentals.
 
-
+Thoughts: Nice to be learning it.
