@@ -121,3 +121,8 @@ Day 16: February 11th, 2022
 Today's Progress: More on the python tutorials. Taking a break on the game to get some PY fundamentals.
 
 Thoughts: Nice to be learning it.
+
+Day 17: February 12th, 2022
+Today's Progress: Now up to here: https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/strings-and-lists
+
+
