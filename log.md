@@ -125,4 +125,5 @@ Thoughts: Nice to be learning it.
 Day 17: February 12th, 2022
 Today's Progress: Now up to here: https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/strings-and-lists
 
-
+Day 18: February 13th, 2022 
+Today's Progress: Now up to here: https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/dictionaries-common-applications
