@@ -122,19 +122,23 @@ Today's Progress: More on the python tutorials. Taking a break on the game to ge
 
 Thoughts: Nice to be learning it.
 
-Day 17: February 12th, 2022
+### Day 17: February 12th, 2022
 Today's Progress: Now up to here: https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/strings-and-lists
 
-Day 18: February 13th, 2022 
+### Day 18: February 13th, 2022 
 Today's Progress: Now up to here: https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/dictionaries-common-applications
 
-Day 19: February 14th, 2022
+### Day 19: February 14th, 2022
 Today's Progress: Now up to here: doing more on the python tutorials. it's hard to keep up with the days, but it is ongoing and committed. #1h
 
-Day 20: February 15th, 2022 
+### Day 20: February 15th, 2022 
 Today's Progress: Now up to here: reading more stuff on pygame and also using sendmail within python. #1h
 
-Day 21: February 16th, 2022
+### Day 21: February 16th, 2022
 Today's Progress: Now up to here: looking into using R within the skiddle api as i have an idea for an app #1h
-Day 22: February 17th, 2022 
+
+### Day 22: February 17th, 2022 
 Today's Progress: Now up to here: playing with the skiddle api to retrieve venue results for a personal project #2h
+
+### Day 23: February 18h, 2022 
+Today's Progress: Now up to here: Playing with R Studio and a live map. Quite a lot to take in. 2#rs
